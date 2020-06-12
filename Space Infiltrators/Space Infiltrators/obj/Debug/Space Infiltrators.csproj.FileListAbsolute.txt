@@ -1,0 +1,98 @@
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\ResolveAssemblyReference.cache
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Properties.Resources.resources
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.csproj.GenerateResource.Cache
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.exe
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.pdb
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.exe
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.pdb
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.exe
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.pdb
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.exe
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.pdb
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\ResolveAssemblyReference.cache
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Properties.Resources.resources
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.csproj.GenerateResource.Cache
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Infiltrators.resources
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Infiltrators.resources
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.MainMenu.resources
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.exe.manifest
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.application
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.exe.manifest
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.application
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.exe.manifest
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.application
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.MainMenu.resources
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.exe.manifest
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.application
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Interop.WMPLib.dll
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\AxInterop.WMPLib.dll
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.csproj.ResolveComReference.cache
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\Interop.WMPLib.dll
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\AxInterop.WMPLib.dll
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.PickStage.resources
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Interop.WMPLib.dll
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\AxInterop.WMPLib.dll
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.csproj.ResolveComReference.cache
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\Interop.WMPLib.dll
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\bin\Debug\AxInterop.WMPLib.dll
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.PickStage.resources
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Instructions.resources
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Instructions.resources
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Winner2.resources
+D:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.YouWin.resources
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Winner2.resources
+F:\ComputerTech\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.YouWin.resources
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Interop.WMPLib.dll
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\AxInterop.WMPLib.dll
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.csproj.ResolveComReference.cache
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.exe
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.pdb
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.exe.manifest
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.application
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.exe
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.pdb
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\Interop.WMPLib.dll
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\AxInterop.WMPLib.dll
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\ResolveAssemblyReference.cache
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Infiltrators.resources
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Instructions.resources
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Winner2.resources
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.MainMenu.resources
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.PickStage.resources
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Properties.Resources.resources
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.YouWin.resources
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.csproj.GenerateResource.Cache
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.exe.manifest
+D:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.application
+E:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Interop.WMPLib.dll
+E:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\AxInterop.WMPLib.dll
+E:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.csproj.ResolveComReference.cache
+E:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.exe
+E:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.pdb
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Interop.WMPLib.dll
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\AxInterop.WMPLib.dll
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.csproj.ResolveComReference.cache
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.exe
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.pdb
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.exe.manifest
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.application
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.exe
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\Space Infiltrators.pdb
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\Interop.WMPLib.dll
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\bin\Debug\AxInterop.WMPLib.dll
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\ResolveAssemblyReference.cache
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Infiltrators.resources
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Instructions.resources
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Winner2.resources
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.MainMenu.resources
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.PickStage.resources
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.Properties.Resources.resources
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space_Infiltrators.YouWin.resources
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.csproj.GenerateResource.Cache
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.exe.manifest
+F:\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.application
+C:\Users\Sonny\Desktop\MY ULTIMATE CREATIONS - Anthony Tu\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sonny\Desktop\MY ULTIMATE CREATIONS - Anthony Tu\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sonny\Desktop\MY ULTIMATE CREATIONS - Anthony Tu\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.csproj.ResolveComReference.cache
+C:\Users\Sonny\Desktop\MY ULTIMATE CREATIONS - Anthony Tu\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.exe
+C:\Users\Sonny\Desktop\MY ULTIMATE CREATIONS - Anthony Tu\AnthonyInfiltrators\Space Infiltrators\Space Infiltrators\obj\Debug\Space Infiltrators.pdb

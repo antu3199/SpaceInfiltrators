@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{24555148-0611-41E3-9489-AB39B7C2220E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Space_Infiltrators</RootNamespace>
+    <AssemblyName>Space Infiltrators</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>C13F22F15AF6B30BB1614F9B4CEC723D3FB73944</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Space Infiltrators_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>C:\Users\Sonny\Desktop\Replays\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>KeyThing.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Infiltrators.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Infiltrators.Designer.cs">
+      <DependentUpon>Infiltrators.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instructions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instructions.Designer.cs">
+      <DependentUpon>Instructions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lose.Designer.cs">
+      <DependentUpon>Lose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PickStage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PickStage.Designer.cs">
+      <DependentUpon>PickStage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Infiltrators.resx">
+      <DependentUpon>Infiltrators.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructions.resx">
+      <DependentUpon>Instructions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lose.resx">
+      <DependentUpon>Lose.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PickStage.resx">
+      <DependentUpon>PickStage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YouWin.resx">
+      <DependentUpon>YouWin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="YouWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YouWin.Designer.cs">
+      <DependentUpon>YouWin.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\qdR8p.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\stars1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\bluebar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Battlecruiser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\BattlecruiserLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\BattlecruiserRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\redbar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Universe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\SpaceInfiltratorstext.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Startbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\NormalE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PEnemy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PBullet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\ExplosionBall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\SEnemy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\TEnemy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\boss1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\boss2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\boss3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\boss1Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\boss1Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\ExplosionBallWithFlames.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Menu.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\invaderkilled.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\shoot.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\explosion.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Lasersound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Exploion0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Exploion1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Exploion2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Exploion3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Exploion4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Exploion5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Exploion6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Exploion7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Exploion8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Exploion9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\SpaceMusic.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\BlueSquare.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Stage1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Stage2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Stage3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\boss3bullet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\CKey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\LeftArrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\RightKey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\SpaceKey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\XKey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\ZKey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PlanetExplosion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\S0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\S1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\S2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\S3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\S4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\ArrowL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\ArrowR.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\BackB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Instructionsbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KeyThing.snk" />
+    <None Include="Properties\Winner.jpeg" />
+    <None Include="Space Infiltrators_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Sadsong.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Winmusic.mp3" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
